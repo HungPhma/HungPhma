@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hung Pham 👋
 
-<!--
-**HungPhma/HungPhma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Full-Stack Developer  
+⚛️ React • Node.js • C++ • MongoDB • Docker  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Stock Squeeze Prediction System
+- Salary & Finance Tracker
+- Photography Portfolio Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
+- Tools: Git, Docker, Azure
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
