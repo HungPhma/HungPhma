@@ -50,4 +50,15 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HungPhma&show_icons=true&hide_border=true" />
+</p>
+
+---
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HungPhma&hide_border=true" />
+</p>
+
 ⭐ *Thanks for visiting my GitHub profile — feel free to explore my repositories and reach out!*
