@@ -18,7 +18,7 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 ---
 
 ---
-### 💼 Current Projects
+### 💼 Projects
 
 <details>
   <summary><strong>🦀 CrabPub – Restaurant Management System (Click to expand)</strong></summary>
