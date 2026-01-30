@@ -17,37 +17,6 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 
 ---
 
-### 🌐 Portfolio & Resume
-- 👨‍💻 Portfolio: **https://hpham.dev/**
-- 📄 Resume: **https://drive.google.com/file/d/1ABro04SE66gxB2-QYUBJG18BCbhgI_wa/view**
-
----
-
-### 📫 Contact
-📧 **Hungpham23.official@gmail.com**
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://github.com/HungPhma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hung-pham11/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/Hpham23" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,nextjs,js,html,css,bootstrap,docker,git,linux,postman,cpp,python,unity,jenkins,d3" />
-</p>
-
 ---
 ### 💼 Current Projects
 
@@ -135,6 +104,39 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 - Admin role hierarchy (owner vs manager)
 
 </details>
+
+---
+
+### 🌐 Portfolio & Resume
+- 👨‍💻 Portfolio: **https://hpham.dev/**
+- 📄 Resume: **https://drive.google.com/file/d/1ABro04SE66gxB2-QYUBJG18BCbhgI_wa/view**
+
+---
+
+### 📫 Contact
+📧 **Hungpham23.official@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://github.com/HungPhma" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/hung-pham11/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/Hpham23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,nextjs,js,html,css,bootstrap,docker,git,linux,postman,cpp,python,unity,jenkins,d3" />
+</p>
 
 ---
 
