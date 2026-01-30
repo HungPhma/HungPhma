@@ -50,6 +50,98 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 
 ---
 
+# 🦀 CrabPub – Restaurant Management System
+
+CrabPub is a **production-ready full-stack web application** built for a local seafood restaurant chain with multiple locations. The system streamlines digital menu management, supports location-based availability, and provides a secure admin dashboard for real-world restaurant operations.
+
+---
+
+## 🚀 Live Project Overview
+
+- **Type:** Full-Stack Web Application  
+- **Status:** Live & actively maintained  
+- **Client:** Local seafood restaurant chain (3 locations)  
+- **Purpose:** Online menu, admin management, and scalable restaurant operations  
+
+---
+
+## ✨ Features
+
+### Customer-Facing
+- Browse menu by **categories and combo meals**
+- Location-based item availability
+- Responsive, mobile-first UI
+- Google Maps integration for store locations
+- Modal-based menu and ordering flow
+
+### Admin Dashboard
+- Secure admin authentication
+- Full **CRUD** for menu items and categories
+- Image upload and management
+- Toggle item availability per location
+- Pagination and optimized queries for large menus
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React (Hooks, component-based architecture)
+- CSS / SCSS (responsive design)
+- Axios for API communication
+
+### Backend
+- Node.js & Express
+- RESTful API architecture
+- MongoDB with indexed collections
+- UUID-based document identifiers
+
+### DevOps & Deployment
+- Dockerized services
+- Frontend hosted on static hosting (GitHub Pages)
+- Backend deployed as API service
+- Environment variables for secure configuration
+
+---
+
+## 🔐 Security & Performance
+
+- Role-based admin access
+- Input validation and centralized error handling
+- Indexed MongoDB queries for fast lookups
+- Average API response time: **~300–400ms**
+
+---
+
+## 📈 Impact
+
+- Used in a **real production environment**
+- Reduced manual menu updates to near zero
+- Improved customer ordering experience
+- Scalable architecture ready for additional locations
+
+---
+
+## 🧠 What This Project Demonstrates
+
+- End-to-end full-stack development
+- RESTful API design and optimization
+- React state management and modal control
+- Production deployment and environment handling
+- Building software driven by real business needs
+
+---
+
+## 🔮 Future Enhancements
+
+- Online payment integration
+- Order tracking and history
+- Analytics dashboard for admins
+- User accounts and loyalty system
+- Admin role hierarchy (owner vs manager)
+  
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HungPhma&show_icons=true&hide_border=true" />
