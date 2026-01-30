@@ -49,10 +49,14 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 </p>
 
 ---
+### 💼 Current Projects
 
-# 🦀 CrabPub – Restaurant Management System
+<details>
+  <summary><strong>🦀 CrabPub – Restaurant Management System (Click to expand)</strong></summary>
 
-CrabPub is a **production-ready full-stack web application** built for a local seafood restaurant chain with multiple locations. The system streamlines digital menu management, supports location-based availability, and provides a secure admin dashboard for real-world restaurant operations.
+  <br/>
+
+  CrabPub is a **production-ready full-stack web application** built for a local seafood restaurant chain with multiple locations. The system streamlines digital menu management, supports location-based availability, and provides a secure admin dashboard for real-world restaurant operations.
 
 ---
 
@@ -122,16 +126,6 @@ CrabPub is a **production-ready full-stack web application** built for a local s
 
 ---
 
-## 🧠 What This Project Demonstrates
-
-- End-to-end full-stack development
-- RESTful API design and optimization
-- React state management and modal control
-- Production deployment and environment handling
-- Building software driven by real business needs
-
----
-
 ## 🔮 Future Enhancements
 
 - Online payment integration
@@ -139,7 +133,9 @@ CrabPub is a **production-ready full-stack web application** built for a local s
 - Analytics dashboard for admins
 - User accounts and loyalty system
 - Admin role hierarchy (owner vs manager)
-  
+
+</details>
+
 ---
 
 ### 📊 GitHub Stats
