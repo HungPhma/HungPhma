@@ -104,9 +104,7 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 - Admin role hierarchy (owner vs manager)
 
 </details>
-
----
-<details> <summary><strong>💅 Inails & Spa – Business Website & Management System (Click to expand)</strong></summary> <br/>
+<details> <summary><strong>💅 Inails & Spa – Business Website & Management System (Click to expand)</strong> https://github.com/HungPhma/InailsAndSpa.git </summary> <br/>
 
 End to end business website built for a local nail salon to modernize online presence and streamline service management.
 
