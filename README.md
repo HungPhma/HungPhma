@@ -37,6 +37,11 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 - **Purpose:** Online menu, admin management, and scalable restaurant operations  
 
 ---
+## 🏗 System Architecture
+
+![CrabPub system architecture](docs/architecture.svg)
+
+---
 
 ## ✨ Features
 
