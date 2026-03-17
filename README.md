@@ -49,7 +49,7 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 ![CrabPub customer website](docs/Menu.png)
 ![CrabPub customer online order](docs/onlineOrder.png)
 ![CrabPub customer website options](docs/options.png)
-![CrabPub admin website](docs/adminPage.png)
+![CrabPub admin website](docs/adminpage.png)
 ![CrabPub admin reset password](docs/resetPassword.png)
 ---
 ## 🏗 System Architecture
