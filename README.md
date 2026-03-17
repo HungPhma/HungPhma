@@ -37,6 +37,21 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 - **Purpose:** Online menu, admin management, and scalable restaurant operations  
 
 ---
+
+ 
+## 📸 Screenshots
+ 
+### Customer page
+ 
+> Browse the menu, view combos, and find your nearest location.
+
+![CrabPub customer website](docs/landing.png)
+![CrabPub customer website](docs/Menu.png)
+![CrabPub customer online order](docs/onlineOrder.png)
+![CrabPub customer website options](docs/options.png)
+![CrabPub admin website](docs/adminPage.png)
+![CrabPub admin reset password](docs/resetPassword.png)
+---
 ## 🏗 System Architecture
 
 ![CrabPub system architecture](architecture.svg)
