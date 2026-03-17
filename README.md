@@ -54,7 +54,7 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 ---
 ## 🏗 System Architecture
 
-![CrabPub system architecture](architecture.svg)
+![CrabPub system architecture](docs/architecture.svg)
 
 ---
 
